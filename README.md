@@ -8,5 +8,4 @@
 
 ### *Join my **>>[Discord Server](https://discord.gg/tPSUdDhBhw)<<***
 <br><br><br><br>
-- [x] test
-- [ ] test
+- [x] Certified Femboy :+1:
