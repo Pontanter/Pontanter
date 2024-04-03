@@ -7,3 +7,5 @@
 * **Learning/Interested in**: Java, C
 
 ### *Join my **>>[Discord Server](https://discord.gg/tPSUdDhBhw)<<***
+
+<input type="text" placeholder="Hello, world!" value="test"></input>
