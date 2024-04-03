@@ -7,5 +7,5 @@
 * **Learning/Interested in**: Java, C
 
 ### *Join my **>>[Discord Server](https://discord.gg/tPSUdDhBhw)<<***
-<br><br><br><br>
+<br><br>
 - [x] Certified Femboy :+1:
