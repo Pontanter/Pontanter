@@ -1,6 +1,5 @@
 # Hello! 👋
 
-
 ### I primarily make Discord Bots, and I love coding.
 
 
