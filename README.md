@@ -6,7 +6,4 @@
 * **Some experience**: Javascript, C, Java, CSS
 * **Learning/Interested in**: Java, C
 
-### ***[Discord Server](https://discord.gg/tPSUdDhBhw)***
 ### *Discord Account: **@diamantopp***
-<br><br>
-- [x] Certified Femboy :+1:
