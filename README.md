@@ -1,5 +1,5 @@
 # Hello! 👋
-**I primarily make Discord Bots <sub>(nvm)</sub>, and I love coding.**
+**I do stuff—on occasions?**
 
 ## Languages I know;
 * **Practically Perfect With**: Java, Python, Lua
